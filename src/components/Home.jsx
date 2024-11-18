@@ -1,7 +1,11 @@
 import React from "react";
 
 const Home = () => {
-  return <div>React Application</div>;
+  return
+  <>
+  <h1>Hello React Webpack</h1>
+  <div>React Application</div>;
+  </> 
 };
 
 export default Home;
